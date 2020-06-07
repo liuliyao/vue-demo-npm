@@ -1,0 +1,1 @@
+export { default as TitleTxt } from './TitleTxt'
